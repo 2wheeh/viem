@@ -1,5 +1,15 @@
 # viem
 
+## 2.38.7
+
+### Patch Changes
+
+- [#4074](https://github.com/wevm/viem/pull/4074) [`7d88fcdc0a91a445863e28d0c3fca0ec606e7a00`](https://github.com/wevm/viem/commit/7d88fcdc0a91a445863e28d0c3fca0ec606e7a00) Thanks [@askmyselfwhy](https://github.com/askmyselfwhy)! - Added Helios Testnet.
+
+- [#4073](https://github.com/wevm/viem/pull/4073) [`cfdb8b329313ca70c0aa7c7f5805d55547869e72`](https://github.com/wevm/viem/commit/cfdb8b329313ca70c0aa7c7f5805d55547869e72) Thanks [@akitothemoon](https://github.com/akitothemoon)! - Added POTOS Mainnet.
+
+- [#4068](https://github.com/wevm/viem/pull/4068) [`b0ab1c2faf47a795656e1189957f8491b255976b`](https://github.com/wevm/viem/commit/b0ab1c2faf47a795656e1189957f8491b255976b) Thanks [@mangosago99](https://github.com/mangosago99)! - Added Xone mainnet and testnet.
+
 ## 2.38.6
 
 ### Patch Changes
